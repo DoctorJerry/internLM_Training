@@ -29,11 +29,23 @@
 ![image](https://github.com/user-attachments/assets/1c45ad52-17e5-400c-92fc-e7b54d33da51)
 
 （5）复制SSH对话框中的“登录命令”粘贴到本地终端中，回车，即可登录，无需输入密码。
+
 ![image](https://github.com/user-attachments/assets/60b02aa1-e421-4029-affd-c633c22a37c3)
 
+（6）安装fradio
+
+![Snipaste_2024-09-18_17-24-32](https://github.com/user-attachments/assets/7b50cdb7-e98e-4cc3-85e0-f4c5236d06d5)
+
+（7）在开发机的Juperter lab中，创建helloworld.py并运行该文件。
+
+![Snipaste_2024-09-18_17-30-10](https://github.com/user-attachments/assets/274b6d27-9d7a-4922-ba34-a83c9f41136b)
+
+（8）通过本地浏览器，验证端口映射是否成功。
+![image](https://github.com/user-attachments/assets/0d0eb489-73d7-43fc-8b39-ab6a6952b9ca)
 
 ## 2、可选任务 1
 通过进入开发机，使用juperter lab输出Hello World~
+
 ![image](https://github.com/user-attachments/assets/ad11c846-4984-49f7-ae51-bce601e97739)
 
 ## 3、可选任务 2
